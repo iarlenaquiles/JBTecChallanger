@@ -1,4 +1,4 @@
-# Throttle Async Example
+# Throttle Async Challanger
 
 Este projeto é um exemplo de como usar o Conventional Commits em um projeto TypeScript e demonstra como rodar um código assíncrono de throttle.
 
